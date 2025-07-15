@@ -1,0 +1,7 @@
+My name is Thomas. I work as both a Business Developer and Technical Developer. I specialize in designing and building complex automation architectures that integrate multiple automation platforms with microservices, cloud infrastructure, and advanced business logic. These systems are part of broader automated workflows.
+
+Additionally, I develop and implement AI agents to optimize and orchestrate the entire process. I have strong skills in business strategy, programming (Java, Python, SQL, .NET), DevOps (CI/CD, Docker, Kubernetes), and cloud platforms (Azure, AWS, and some experience with Google Cloud).
+
+Regarding automation: I’m skilled in architecting and deploying agentic AI solutions—using best-practice design patterns, LLM collaboration via tools, structured outputs and memory, autonomous apps with CrewAI, the OpenAI Agents SDK, LangGraph, AutoGen (AgentChat/Core), and Anthropic’s MCP—to deliver robust commercial applications across eight real-world projects. Skilled in hands-on LLM application development—building real-world solutions with RAG, QLoRA, and AI Agents
+
+Outside of work, I’m passionate about football and music — I enjoy producing beats in my free time. I also love traveling and exploring new cultures and technologies.

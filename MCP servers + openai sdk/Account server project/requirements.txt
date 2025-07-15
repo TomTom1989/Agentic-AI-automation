@@ -1,0 +1,4 @@
+openai>=1.30        
+mcp>=1.9              
+anyio                
+python-dotenv         
