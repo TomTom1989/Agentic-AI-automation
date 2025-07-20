@@ -15,6 +15,7 @@ Welcome to my collection of advanced AI, agentic, and machine learning projects.
 
 ## PROJECTS:
 
+_All projects are designed with built-in support for Cursor AI and Google Colab, including seamless connectivity to the Hugging Face platform for model training, inference, and data management._
 
 
 ## 🧠 Agentic AI & Multi-Agent Systems
