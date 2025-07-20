@@ -1,12 +1,12 @@
 # === Install required libraries ===
 #!pip install -q bitsandbytes accelerate transformers datasets peft trl scipy scikit-learn
-!pip install -q bitsandbytes accelerate transformers datasets peft trl scipy scikit-learn
+
 
 # === 2. Hugging Face Login (for gated Falcon model) ===
 from huggingface_hub import login
 import os
 
-HF_TOKEN = "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"  # replace if needed
+HF_TOKEN = "HF_TOKEN hardcoded"  
 login(HF_TOKEN, add_to_git_credential=True)
 
 # === 3. Imports ===
